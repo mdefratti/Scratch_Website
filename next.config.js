@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
-  basePath: process.env.BASE_PATH ?? '',
+  basePath: '/Scratch_Website',
 }
 
 module.exports = nextConfig
